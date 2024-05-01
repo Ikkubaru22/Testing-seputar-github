@@ -14,12 +14,13 @@ public class Voucher {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Percobaan Voucher");
+        
         
         System.out.println("Bulat kanan");
         System.out.println("Bulat kanan");
         System.out.println("Kiri kotak");
         System.out.println("Segitiga Atas");
+        
     }
     
 }
